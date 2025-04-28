@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#number {
+    font-size: 325.5px;
+    display: inline-block;
+    line-height: 1;
+}
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    font-size: 16px; /* Set font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+    margin: 5px; /* Add some spacing between buttons */
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+h1 {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 32px;
+    color: #666;
+    margin-bottom: 15px;
+    font-style: italic;
+}
